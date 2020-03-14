@@ -1,0 +1,2 @@
+class Anil < ApplicationRecord
+end
